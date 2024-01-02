@@ -1,0 +1,141 @@
+{
+    "Phones": [
+      {
+        "id": 1,
+        "image": "https://source.unsplash.com/438x531/?phone",
+        "title": "Phone Model 1",
+        "name": "TechMaster Mobile Pro",
+        "mrp": "999",
+        "price": "799",
+        "color": "silver",
+        "totimg": "4",
+        "brand": "TechMaster",
+        "category": "Smartphones"
+      },
+      {
+        "id": 2,
+        "image": "https://source.unsplash.com/438x531/?smartphone",
+        "title": "Phone Model 2",
+        "name": "GadgetPro SmartX",
+        "mrp": "1299",
+        "price": "1099",
+        "color": "black",
+        "totimg": "5",
+        "brand": "GadgetPro",
+        "category": "Smartphones"
+      },
+      {
+        "id": 3,
+        "image": "https://source.unsplash.com/438x531/?phone",
+        "title": "Phone Model 3",
+        "name": "AwesomeTech Mobile",
+        "mrp": "899",
+        "price": "749",
+        "color": "blue",
+        "totimg": "3",
+        "brand": "AwesomeTech",
+        "category": "Smartphones"
+      },
+      {
+        "id": 4,
+        "image": "https://source.unsplash.com/438x531/?smartphone",
+        "title": "Phone Model 4",
+        "name": "SuperGadget Lite",
+        "mrp": "1099",
+        "price": "899",
+        "color": "white",
+        "totimg": "6",
+        "brand": "SuperGadget",
+        "category": "Smartphones"
+      },
+      {
+        "id": 5,
+        "image": "https://source.unsplash.com/438x531/?phone",
+        "title": "Phone Model 5",
+        "name": "EcoTech Green Edition",
+        "mrp": "1199",
+        "price": "999",
+        "color": "green",
+        "totimg": "4",
+        "brand": "EcoTech",
+        "category": "Smartphones"
+      },
+      {
+        "id": 6,
+        "image": "https://source.unsplash.com/438x531/?smartphone",
+        "title": "Phone Model 6",
+        "name": "InnoGadget X3",
+        "mrp": "1399",
+        "price": "1199",
+        "color": "gray",
+        "totimg": "5",
+        "brand": "InnoGadget",
+        "category": "Smartphones"
+      },
+      {
+        "id": 7,
+        "image": "https://source.unsplash.com/438x531/?phone",
+        "title": "Phone Model 7",
+        "name": "UltraMobile Z",
+        "mrp": "999",
+        "price": "799",
+        "color": "red",
+        "totimg": "4",
+        "brand": "UltraMobile",
+        "category": "Smartphones"
+      },
+      {
+        "id": 8,
+        "image": "https://source.unsplash.com/438x531/?smartphone",
+        "title": "Phone Model 8",
+        "name": "TechWizard X1",
+        "mrp": "1299",
+        "price": "1099",
+        "color": "black",
+        "totimg": "5",
+        "brand": "TechWizard",
+        "category": "Smartphones"
+      },
+      {
+        "id": 9,
+        "image": "https://source.unsplash.com/438x531/?phone",
+        "title": "Phone Model 9",
+        "name": "GizmoTech Z",
+        "mrp": "899",
+        "price": "749",
+        "color": "blue",
+        "totimg": "3",
+        "brand": "GizmoTech",
+        "category": "Smartphones"
+      },
+      {
+        "id": 10,
+        "image": "https://source.unsplash.com/438x531/?smartphone",
+        "title": "Phone Model 10",
+        "name": "SmartMobile A1",
+        "mrp": "1099",
+        "price": "899",
+        "color": "white",
+        "totimg": "6",
+        "brand": "SmartMobile",
+        "category": "Smartphones"
+      }
+    ],
+    "users": [
+      {
+        "username": "shikhu51197",
+        "avatar": "https://images.pexels.com/photos/3585089/pexels-photo-3585089.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "email": "abc123@gmail.com",
+        "password": "1234567",
+        "id": 1
+      },
+      {
+        "username": "shikhu51197",
+        "avatar": "https://images.pexels.com/photos/3585089/pexels-photo-3585089.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "email": "Masai123@gmail.com",
+        "password": "12345678",
+        "id": 2
+      }
+    ]
+  }
+  
